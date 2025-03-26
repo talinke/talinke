@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tim Linke | Computational Engineer  
 
-<!--
-**talinke/talinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Work in Scientific Computing, Numerical Methods, and High-Performance Computing**  
+🔹 **Passionate about Open-Source Development & Computational Physics**   
+---
 
-Here are some ideas to get you started:
+## **Selected Contributions**  
+🔹 [mfem](https://github.com/mfem/mfem/pull/4486) – Developed a self-contained optimization routine called the Method of Moving Asymptotes.  
+🔹 [Concurrent Multiscale Framework](https://github.com/talinke/Concurrent-DSMC-MD) – Implemented a concurrent framework to couple self-written Molecular Dynamics and Direct Simulation Monte Carlo algorithms.  
+🔹 [N-Body Research Code](https://github.com/talinke/SolarSystemSimulation) – Wrote a research code to simulate the solar system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **Questions and Comments**  
+🔹 **LinkedIn:** [linkedin.com/in/tim-linke](https://www.linkedin.com/in/tim-linke/) 
+
+---
