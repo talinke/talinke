@@ -5,9 +5,9 @@
 ---
 
 ## **Selected Contributions**  
-🔹 [mfem](https://github.com/mfem/mfem/pull/4486) – Developed a self-contained optimization routine called the Method of Moving Asymptotes.  
-🔹 [Concurrent Multiscale Framework](https://github.com/talinke/Concurrent-DSMC-MD) – Implemented a concurrent framework to couple self-written Molecular Dynamics and Direct Simulation Monte Carlo algorithms.  
-🔹 [N-Body Research Code](https://github.com/talinke/SolarSystemSimulation) – Wrote a research code to simulate the solar system.
+🔹 [mfem](https://github.com/mfem/mfem/pull/4486) – Modular Finite Element Method Library (LLNL). Cotributed an Optimization Routine Suitable for Highly Parallel, Nonlinear Problems.
+🔹 [LAMMPS](https://github.com/lammps/lammps/pull/4574) - Large-scale Atomic/Molecular Massively Parallel Simulator (Sandia). Contributed a Modern Langevin Algorithm for Molecular Dynamics.
+🔹 [Concurrent Multiscale Framework](https://github.com/talinke/Concurrent-DSMC-MD) – Coupling Self-Written Direct Simulation Monte Carlo and Molecular Dynamics Algorithms.  
 
 ---
 
